@@ -1,5 +1,5 @@
-#Java Automation Project
-##Base point for Java Automation projects
+#Gmail Project
+
 
 *Project for creating automation test using Selenium webDriver and TestNG.*
 
